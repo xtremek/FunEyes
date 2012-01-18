@@ -1,0 +1,17 @@
+<face>
+    <name>Aaron Seigo</name>
+    <image>keyes-aaron.png</image>
+    <eyes_above>0</eyes_above>
+    <eye>
+        <x>49</x>
+        <y>60</y>
+        <width>14</width>
+        <height>7</height>
+    </eye><eye>
+        <x>78</x>
+        <y>60</y>
+        <width>14</width>
+        <height>7</height>
+    </eye>
+    <comment>Hello!</comment>
+</face>

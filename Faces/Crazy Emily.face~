@@ -1,0 +1,16 @@
+<face>
+	<name>Crazy Emily</name>
+	<image>Crazy Emily.png</image>
+	<eye>
+		<x>68</x>
+		<y>133</y>
+		<width>14</width>
+		<height>7</height>
+	</eye><eye>
+		<x>98</x>
+		<y>137</y>
+		<width>14</width>
+		<height>7</height>
+	</eye>
+	<comment>HoHoHO!</comment>
+</face>

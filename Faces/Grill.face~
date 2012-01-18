@@ -1,0 +1,17 @@
+<face>
+	<name>Grill</name>
+	<image>Grill.png</image>
+	<eyes_above>0</eyes_above>
+	<eye>
+		<x>25</x>
+		<y>72</y>
+		<width>14</width>
+		<height>5</height>
+	</eye><eye>
+		<x>58</x>
+		<y>68</y>
+		<width>14</width>
+		<height>5</height>
+	</eye>
+	<comment>I have a bobo computer!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</comment>
+</face>

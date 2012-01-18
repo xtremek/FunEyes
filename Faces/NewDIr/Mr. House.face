@@ -1,0 +1,19 @@
+<face>
+	<name>Mr. House</name>
+	<image>Mr. House.png</image>
+	<eyes_above>0</eyes_above>
+	<eye>
+		<x>25</x>
+		<y>62</y>
+		<width>14</width>
+		<height>5</height>
+		<color>Teal</color>
+	</eye><eye>
+		<x>58</x>
+		<y>60</y>
+		<width>14</width>
+		<height>5</height>
+		<color>Teal</color>
+	</eye>
+	<comment>Wow! I love Linux!</comment>
+</face>

@@ -1,0 +1,19 @@
+<face>
+	<name>Emily</name>
+	<image>Emily.png</image>
+	<eyes_above>1</eyes_above>
+	<eye>
+		<x>35</x>
+		<y>68</y>
+        <rot>15</rot>
+		<width>14</width>
+		<height>7</height>
+	</eye><eye>
+		<x>67</x>
+		<y>67</y>
+        <rot>15</rot>
+		<width>14</width>
+		<height>7</height>
+	</eye>
+	<comment>Gigi</comment>
+</face>

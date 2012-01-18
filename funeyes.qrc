@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>Eyes/Brown.png</file>
+        <file>Eyes/Blue.png</file>
+        <file>Eyes/Bright Blue.png</file>
+        <file>Eyes/Dark Blue.png</file>
+        <file>Eyes/Green.png</file>
+        <file>Eyes/Hazel.png</file>
+        <file>Eyes/Light Brown.png</file>
+        <file>Eyes/Purple.png</file>
+        <file>Eyes/Red.png</file>
+        <file>Eyes/Teal.png</file>
+        <file>Icons/add.png</file>
+        <file>Icons/cancel.png</file>
+        <file>Icons/configure.png</file>
+        <file>Icons/edit.png</file>
+        <file>Icons/exit.png</file>
+        <file>Icons/funeyes.png</file>
+        <file>Icons/info.png</file>
+        <file>Icons/ok.png</file>
+        <file>Icons/remove.png</file>
+        <file>Icons/rename.png</file>
+    </qresource>
+</RCC>

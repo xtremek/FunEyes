@@ -1,0 +1,16 @@
+<face>
+	<name>Mr. House</name>
+	<image>Mr. House.png</image>
+	<eye>
+		<x>25</x>
+		<y>62</y>
+		<width>14</width>
+		<height>7</height>
+	</eye><eye>
+		<x>58</x>
+		<y>59</y>
+		<width>14</width>
+		<height>7</height>
+	</eye>
+	<comment>GoGo!</comment>
+</face>

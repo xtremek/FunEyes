@@ -1,0 +1,19 @@
+<face>
+	<name>Upside-down Jesse</name>
+	<image>Upsidedown Jesse.png</image>
+	<eyes_above>0</eyes_above>
+	<eye>
+		<x>117</x>
+		<y>124</y>
+		<width>14</width>
+		<height>9</height>
+		<color>Red</color>
+	</eye><eye>
+		<x>147</x>
+		<y>120</y>
+		<width>14</width>
+		<height>9</height>
+		<color>Red</color>
+	</eye>
+	<comment>I'm crazy about KDE4!</comment>
+</face>

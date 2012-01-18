@@ -1,0 +1,19 @@
+<face>
+	<name>Mr. Lytle</name>
+	<image>Mr. Lytle.png</image>
+	<eyes_above>0</eyes_above>
+	<eye>
+		<x>50</x>
+		<y>59</y>
+		<width>14</width>
+		<height>9</height>
+		<color>Light Brown</color>
+	</eye><eye>
+		<x>83</x>
+		<y>58</y>
+		<width>14</width>
+		<height>9</height>
+		<color>Light Brown</color>
+	</eye>
+	<comment>I'm so glad Henrietta decided to invite me to stay!!!</comment>
+</face>
